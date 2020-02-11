@@ -1,0 +1,10 @@
+c:\users\david\documents\visual studio 2015\Projects\Farmacia\Farmacia\bin\Debug\Farmacia.exe.config
+c:\users\david\documents\visual studio 2015\Projects\Farmacia\Farmacia\bin\Debug\Farmacia.exe
+c:\users\david\documents\visual studio 2015\Projects\Farmacia\Farmacia\bin\Debug\Farmacia.pdb
+c:\users\david\documents\visual studio 2015\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.Form1.resources
+c:\users\david\documents\visual studio 2015\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+c:\users\david\documents\visual studio 2015\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2015\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.exe
+c:\users\david\documents\visual studio 2015\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.pdb
+c:\users\david\documents\visual studio 2015\Projects\Farmacia\Farmacia\obj\Debug\Farmacia.Gestion.resources
